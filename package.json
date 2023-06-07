@@ -74,7 +74,7 @@
         "vitest": "^0.29.8"
     },
     "dependencies": {
-        "@docsearch/js": "^3.3.3",
+        "@docsearch/js": "^3.3.5",
         "vee-validate": "^4.8.2"
     }
 }
