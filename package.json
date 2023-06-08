@@ -75,6 +75,6 @@
     },
     "dependencies": {
         "@docsearch/js": "^3.3.3",
-        "vee-validate": "^4.8.2"
+        "vee-validate": "^4.9.4"
     }
 }
